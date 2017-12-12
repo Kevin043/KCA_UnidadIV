@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "insertion2.py", line 37, in <module>
+    parse_links()
+  File "insertion2.py", line 33, in parse_links
+    conn.close()
+_mysql_exceptions.ProgrammingError: closing a closed connection
+Traceback (most recent call last):
+  File "insertion2.py", line 37, in <module>
+    parse_links()
+  File "insertion2.py", line 33, in parse_links
+    conn.close()
+_mysql_exceptions.ProgrammingError: closing a closed connection
